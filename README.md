@@ -1,2 +1,3 @@
 # banditlogin
-screen shot of level 0
+screen shot of Over the wire level (Bandit)
+
